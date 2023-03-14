@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    
+    <string name="wbc">World Baseball Clasic</string>
+    <string name="wbc_description">The World Baseball Classic is the main official international
+        baseball tournament, sanctioned by the World Baseball Softball Confederation (WBSC) and
+        created by Major League Baseball (MLB), the Major League Baseball Players Association
+        (MLBPA) that brings together the national teams of the world.</string>
+
+    <string name="grup_a">GROUP A</string>
+    <string name="grup_a_description">Cuba, Italy, Netherlands, Chinese Taipei and Panama are in
+        group A for the group phases</string>
+
+    <string name="grup_b">GROUP B</string>
+    <string name="grup_b_description">Japan, Australia, Corea, Czech Republic and China are in
+        group B for the group phases</string>
+
+    <string name="grup_c">GROUP C</string>
+    <string name="grup_c_description">Canada, Colombia, Mexico, USA and Britain are in
+        group C for the group phases</string>
+
+    <string name="grup_d">GROUP D</string>
+    <string name="grup_d_description">Venezuela, Puerto Rico, Republica Dominicana, Israel and Nucaragua are in
+        group D for the group phases</string>
+
+    <string name="Schedule">Schedule</string>
+    <string name="Schedule_description">schedule for the group stage, quarterfinals, semifinals and finals</string>
+
+</resources>
